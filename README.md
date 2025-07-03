@@ -14,7 +14,7 @@ A full-stack audio watermarking application using an a open sourced deep learnin
 -  View Bit Error Rate (BER) between original and decoded payload
 -  GPU support
 
-##Supported Audio Format
+## Supported Audio Format
 
 - Format: .wav
 - Sample Rate: 16kHz (auto-converted if not)
