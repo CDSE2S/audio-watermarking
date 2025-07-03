@@ -40,5 +40,6 @@ pip install -r requirements.txt
 ### 3. Running
 
 uvicorn app.main:app --reload
+
 streamlit run frontend/streamlit_run.py
  
